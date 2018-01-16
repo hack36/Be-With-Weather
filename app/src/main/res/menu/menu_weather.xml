@@ -4,7 +4,6 @@
     tools:context="com.example.sunny.knowweather.WeatherActivity">
     <item
         android:id="@+id/change_city"
-        android:orderInCategory="1"
         android:title="Change City"
-        app:showAsAction="never"/>
+        app:showAsAction="always"/>
 </menu>
